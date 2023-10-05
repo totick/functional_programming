@@ -4,12 +4,12 @@ const greet = (greeting) => {
   };
 };
 
-const sayHello = greet('Salve');
+const salve = greet('Salve');
 
-sayHello('Antonio');
-sayHello('Luigi');
+salve('Antonio');
+salve('Luigi');
 
-const saluda = greet('Hola');
+const hola = greet('Hola');
 
-saluda('José');
-saluda('Pedro');
+hola('José');
+hola('Pedro');
